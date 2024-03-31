@@ -11,5 +11,22 @@ ChikChat
 
 ![image](https://github.com/LumYai/php-chat-app/assets/108004359/86e65f68-c993-4604-874b-8623bbc8c24b)
 
+
+หน้าแรกของ web http://localhost/php-chat-app/index.php
 https://github.com/LumYai/php-chat-app/assets/108004359/a2a6baff-6dc4-4562-bca2-a8e6a6c0b8d6
+
+---
+PHP
+MYSQL
+JQUERY
+BOOTSTRAP 5
+HTML
+CSS
+---
+Reference
+[https://github.com/codingWithElias/ph...](https://github.com/codingWithElias/php-chat-app)
+https://www.youtube.com/watch?v=JLnsWkQ-iB8&t=3587s
+https://getbootstrap.com/
+https://www.w3schools.com/
+---
 
